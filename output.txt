@@ -1,0 +1,100 @@
+a woman is using a large piece of paper .
+a man is a a .
+a person is slicing a pepper .
+a woman is adding eggs to a bowl .
+a person is a <UNK> .
+a man is a a .
+a baby is playing with a ball .
+a man is a a a a .
+a dog is running on a sidewalk .
+a man is a a woman on a cordless phone .
+a man is riding a a bike .
+a man is riding a motorcycle .
+a man is singing and playing a guitar .
+a man is eating a a .
+a car is <UNK> a car .
+a polar is chasing a a .
+a man is a a a .
+a man is playing a guitar .
+a man is a <UNK> .
+a woman is adding eggs to a pan .
+a man is pouring pasta into a bowl .
+a man is stirring a .
+a man is playing a guitar .
+a man is a a a <UNK> .
+a person is doing a tricks .
+a man is riding a a a .
+a man is singing .
+a man is holding a <UNK> .
+a car is down the road .
+a man is spinning a .
+a man is a dog .
+a man is adding a to a bowl .
+a man is slicing a onion .
+a person is a a .
+a man is playing a .
+a cat is a a a puppy .
+a person is adding seasonings to a bowl .
+a <UNK> is running .
+a man is eating a slice of pizza .
+the men are playing in the race .
+a dog is trying to get a a a .
+a man is playing a a phone .
+a woman is slicing a tomato .
+a man is a a a .
+a man is playing a keyboard .
+a man is slicing an onion .
+a man and a are riding a a .
+a man is kicking a .
+a man is spreading butter on a tortilla .
+a man is running .
+a man is putting on a piece of meat .
+a man is slicing a .
+a boy is walking .
+a girl is doing a tricks .
+a man is riding a bicycle .
+a jackal is running .
+a man is a a carrot .
+three people are dancing .
+a man is holding a woman .
+a puppy is walking in the water .
+a man is cutting an onion .
+a person is cutting a .
+a boy is on a telephone .
+a man is putting a on a a .
+a man is a a piece of wood with a knife .
+a person is a shrimp .
+a man is cutting a .
+a man is talking on the phone .
+a person is adding a into a bowl .
+a group of people are dancing .
+a man is lifting a car .
+a are riding a a boat .
+a band is performing .
+a kitten is playing with a ball .
+a man is cutting a tree .
+a are dancing .
+a man is a piece of bread .
+a slow loris is eating a .
+a car is driving down a road .
+a man is talking a a .
+a puppy is playing with a dog .
+a woman is washing a a .
+a cat is playing a piano .
+a <UNK> is a a <UNK> .
+a person is cutting fat off of meat .
+a man is riding a a bike .
+a panda is climbing a log .
+a frog is a a .
+someone is stirring a into a pot .
+a man is a piece of paper .
+a man is a a a .
+a person is stirring a in a pan .
+a polar is playing on the .
+a man is a a soccer ball .
+a baby is drinking a a .
+a man is riding a horse .
+a man is running in a <UNK> .
+a <UNK> is eating a .
+a woman is riding a a crack in a garden .
+a man is talking on a sidewalk .
