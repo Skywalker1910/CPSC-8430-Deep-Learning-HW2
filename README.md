@@ -1,3 +1,4 @@
+# **Deep Learning HW2 - Video Caption Generation**
 # Video Captioning with Seq2Seq Model
 
 ## Installation
@@ -5,8 +6,6 @@ Make sure you have Python 3.x and PyTorch installed. Run the following command t
 ```bash
 pip install -r requirements.txt
 ```
-
-# **Deep Learning HW2 - Video Caption Generation**
 
 This repository contains the implementation of a Seq2Seq (Sequence-to-Sequence) model for video caption generation as part of Deep Learning Homework 2. The code files, along with the necessary scripts for training, inference, and evaluation, are provided in the **`hw2_1`** branch.
 
